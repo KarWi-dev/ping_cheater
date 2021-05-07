@@ -5,3 +5,6 @@ It was made to automate the process of looggig in and putting in a ping **only**
 ---
 ---
 You can change or delete the loginpart as u need it just as u can change the Pictures that are used as a reference to find them on the screen.
+
+
+### You will need to install Tesseract and put the main.py and the picture folder into a new folder called ping_cheater in the root directory of your drive.
