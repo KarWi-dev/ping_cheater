@@ -1,8 +1,9 @@
-# COMCAVE COLLAGE ping_cheater
+# ping_cheater
 A cheat app to avoid annoying presence pings. (e.g. for students)  
 
 It was made to automate the process of logging in and putting in a ping **only** via mouse as the Ping is requestng it when it pops up over everything else.
 
+# THIS IS A PROOF OF CONCEPT ONLY. IT IS NOT MENT FOR REAL USE.
 ---
 ---
 You can change or delete the loginpart as u need it just as u can change the Pictures that are used as a reference to find them on the screen.  
