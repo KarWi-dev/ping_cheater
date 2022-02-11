@@ -7,6 +7,7 @@ It was made to automate the process of logging in and putting in a ping **only**
 ---
 ---
 You can change or delete the loginpart as u need it just as u can change the Pictures that are used as a reference to find them on the screen.  
+You will have to provide your own pictures of the input screen and the singled out buttons.
 
 
 
